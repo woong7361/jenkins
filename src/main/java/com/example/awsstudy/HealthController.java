@@ -14,7 +14,7 @@ public class HealthController {
 
     @GetMapping
     public String healthCheck(){
-        log.info("123123123123");
-        return secret;
+        log.info("secret: "+ secret);
+        return "secret: " + secret;
     }
 }
