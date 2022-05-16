@@ -1,0 +1,26 @@
+2022-05-16 18:47:49.883  INFO 19013 --- [main] c.example.awsstudy.AwsStudyApplication   : Starting AwsStudyApplication using Java 11.0.15 on woong-virtual-machine with PID 19013 (/home/woong/code/sparata/awsStudy/awsStudy/build/classes/java/main started by woong in /home/woong/code/sparata/awsStudy/awsStudy)
+2022-05-16 18:47:49.887  INFO 19013 --- [main] c.example.awsstudy.AwsStudyApplication   : No active profile set, falling back to 1 default profile: "default"
+2022-05-16 18:47:51.676  INFO 19013 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-05-16 18:47:51.690  INFO 19013 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-05-16 18:47:51.690  INFO 19013 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-05-16 18:47:51.788  INFO 19013 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-05-16 18:47:51.789  INFO 19013 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1854 ms
+2022-05-16 18:47:52.227  INFO 19013 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-05-16 18:47:52.238  INFO 19013 --- [main] c.example.awsstudy.AwsStudyApplication   : Started AwsStudyApplication in 3.022 seconds (JVM running for 4.677)
+2022-05-16 18:48:07.717  INFO 19013 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-05-16 18:48:07.720  INFO 19013 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-05-16 18:48:07.724  INFO 19013 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2022-05-16 18:48:07.844  INFO 19013 --- [http-nio-8080-exec-1] com.example.awsstudy.HealthController    : 123123123123
+2022-05-16 18:49:06.094  INFO 19253 --- [main] c.example.awsstudy.AwsStudyApplication   : Starting AwsStudyApplication using Java 11.0.15 on woong-virtual-machine with PID 19253 (/home/woong/code/sparata/awsStudy/awsStudy/build/classes/java/main started by woong in /home/woong/code/sparata/awsStudy/awsStudy)
+2022-05-16 18:49:06.113  INFO 19253 --- [main] c.example.awsstudy.AwsStudyApplication   : No active profile set, falling back to 1 default profile: "default"
+2022-05-16 18:49:08.457  INFO 19253 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-05-16 18:49:08.465  INFO 19253 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-05-16 18:49:08.466  INFO 19253 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-05-16 18:49:08.538  INFO 19253 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-05-16 18:49:08.539  INFO 19253 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2133 ms
+2022-05-16 18:49:08.894  INFO 19253 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-05-16 18:49:08.907  INFO 19253 --- [main] c.example.awsstudy.AwsStudyApplication   : Started AwsStudyApplication in 4.995 seconds (JVM running for 6.973)
+2022-05-16 18:49:22.252  INFO 19253 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-05-16 18:49:22.254  INFO 19253 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-05-16 18:49:22.255  INFO 19253 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2022-05-16 18:49:22.279  INFO 19253 --- [http-nio-8080-exec-1] com.example.awsstudy.HealthController    : 123123123123
